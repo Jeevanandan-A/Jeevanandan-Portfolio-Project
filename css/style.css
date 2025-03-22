@@ -73,6 +73,13 @@ body{
     color: #fca61f;
     position: relative;
 }
+.linked{
+    color: #fca61f;   
+}
+#download-cv{
+    text-decoration: none;
+    color:white;
+}
 .link::after{
     content: '';
     position: absolute;
